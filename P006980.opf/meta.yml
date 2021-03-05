@@ -1,15 +1,16 @@
-id: opecha:P006980
+id: P006980
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W21943
   title: བོན་གྱི་ཐ་སྙད་རིག་གནས་བསྟན་བཅོས་ཕྱོགས་བསྒྲིགས།
-  volume:
+  author: ''
+  volumes:
     693b5119e57e45e1bd8b324e1a3ab7c1:
       image_group_id: I1GS54236
       title: Volume 1 of bon gyi tha snyad rig gnas bstan bcos phyogs bsgrigs
       volume_number: 1
       total_pages: 301
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བོན་གྱི་ཐ་སྙད་རིག་གནས་བསྟན་བཅོས་ཕྱོགས་བསྒྲིགས།
   author: ''
