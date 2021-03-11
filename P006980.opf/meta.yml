@@ -5,11 +5,12 @@ source_metadata:
   title: བོན་གྱི་ཐ་སྙད་རིག་གནས་བསྟན་བཅོས་ཕྱོགས་བསྒྲིགས།
   author: ''
   volumes:
-    2490579ae1904b91af9d102d98dd2400:
+    693b5119e57e45e1bd8b324e1a3ab7c1:
       image_group_id: I1GS54236
-      title: ''
+      title: Volume 1 of bon gyi tha snyad rig gnas bstan bcos phyogs bsgrigs
       volume_number: 1
       total_pages: 301
+      base_file: v001.txt
 ebook_metadata:
   title: བོན་གྱི་ཐ་སྙད་རིག་གནས་བསྟན་བཅོས་ཕྱོགས་བསྒྲིགས།
   author: ''
